@@ -4,7 +4,7 @@
   }
 
 .header__link:hover {
-  color: #710faa;
-  transition: color 0.2s;
+  opacity: 0.5;
+  transition: opacity 0.3s;
   text-decoration: underline;
 }
