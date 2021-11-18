@@ -4,6 +4,8 @@
 @import url(../bloks/rotation/rotation.css);
 @import url(../bloks/content/content.css);
 @import url(../bloks/description/description.css);
+@import url(../bloks/techniques/techniques.css);
+@import url(../bloks/cards/cards.css);
 @import url(../bloks/two-columns/two-columns.css);
 @import url(../bloks/section-title/section-title.css);
 @import url(../bloks/section-subtitle/section-subtitle.css);
@@ -11,4 +13,8 @@
 @import url(../bloks/feynman/feynman.css);
 @import url(../bloks/digits/digits.css);
 @import url(../bloks/kaufman/kaufman.css);
-@import url(../bloks/footer/footer.css); 
+@import url(../bloks/footer/footer.css);
+
+* {
+    Outline: 1px solid red
+    }
