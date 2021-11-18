@@ -12,8 +12,7 @@
 
 .footer {
   background-color: #1f1f1f;
-  padding-top: 60px;
-  padding-bottom: 40px;
+  padding: 60px 0 40px;
   box-sizing: border-box;
   min-height: 350px;
 }

@@ -9,15 +9,12 @@
 @import url(../bloks/cards/cards.css);
 @import url(../bloks/video/video.css);
 @import url(../bloks/oakley/oakley.css);
-@import url(../bloks/section-title/section-title.css);
-@import url(../bloks/section-subtitle/section-subtitle.css);
 @import url(../bloks/feynman/feynman.css);
 @import url(../bloks/digits/digits.css);
 @import url(../bloks/khan/khan.css);
 @import url(../bloks/kaufman/kaufman.css);
 @import url(../bloks/table/table.css);
+@import url(../bloks/resources/resources.css);
+@import url(../bloks/section-title/section-title.css);
+@import url(../bloks/section-subtitle/section-subtitle.css);
 @import url(../bloks/footer/footer.css);
-
-* {
-    Outline: 1px solid red
-    }
