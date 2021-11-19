@@ -8,9 +8,8 @@
   top: 50%;
   right: 48px;
 }
-  
+
 .feynman__link:hover {
   opacity: 0.5;
   transition: opacity 0.3s;
-  text-decoration: underline;
 }
