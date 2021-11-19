@@ -2,7 +2,6 @@
   line-height: 25px;
   font-size: 18px;
   color: white;
-  min-height: 350px;
   display: flex;
   flex-flow: column wrap;
   justify-content: space-between;
